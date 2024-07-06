@@ -32,7 +32,8 @@
 }
 .name{
     font-family: 'Inter',sans-serif;
-    margin-top:5%
+    margin-top:5%;
+    color: white;
 }
 
 .social-profile{
